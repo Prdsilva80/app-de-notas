@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
- 🔗 [Acesse aqui](prdsilva80.github.io/app-de-notas/)
+ 🔗 [Acesse aqui](https://prdsilva80.github.io/app-de-notas/)
 
  # 🛠️ Tecnologias Usadas
 
