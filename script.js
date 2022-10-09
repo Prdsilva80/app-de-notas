@@ -1,9 +1,4 @@
-src="https://cdnjs.cloudflare.com/ajax/libs/marked/1.2.7/marked.min.js"
-integrity="sha512-Sl04EWeJ0QgILm83WoubQbZqh71aWLJP8xnswnKSBI37S+ZtrWVtSHmd1YaYYdC1g9PWN1siY7KO2jU3HtCVHA=="
-crossorigin="anonymous"
-
-
-const addButton = document.getElementById("add");
+        const addButton = document.getElementById("add");
         const notes = JSON.parse(localStorage.getItem("notes"));
 
         const updateLocalStorage = () => {
